@@ -1,0 +1,11 @@
+@article{REPO136,
+    author = "Li, Yapeng and Luo, Yong and Zhang, Lefei and Wang, Zengmao and Du, Bo",
+    doi = "10.1109/TGRS.2024.3430985",
+    journal = "IEEE Transactions on Geoscience and Remote Sensing",
+    keywords = "Hyperspectral imaging;Computational modeling;Transformers;Feature extraction;Image classification;Adaptation models;Mathematical models;Hyperspectral image (HSI) classification;Mamba;state-space models (SSMs);transformer",
+    number = "",
+    pages = "1-16",
+    title = "{MambaHSI: Spatial–Spectral Mamba for Hyperspectral Image Classification}",
+    volume = "62",
+    year = "2024"
+}
